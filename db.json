@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "5f34c5cb193fbe19e86fa413",
+    "cantidadDeAlarmas": 0,
+    "cantidadDeHabitaciones": 33,
+    "codigoMotel": 1,
+    "nombreMotel": "Sunset",
+    "tasaDeOcupacion": "0.18",
+  },
+  {
+    "_id": "5f34c5cb193fbe19e86fa414",
+    "cantidadDeAlarmas": 0,
+    "cantidadDeHabitaciones": 33,
+    "codigoMotel": 2,
+    "nombreMotel": "Champagne",
+    "tasaDeOcupacion": "0.00",
+  },
+  {
+    "_id": "5f34c5cb193fbe19e86fa415",
+    "cantidadDeAlarmas": 0,
+    "cantidadDeHabitaciones": 33,
+    "codigoMotel": 3,
+    "nombreMotel": "Encuentros",
+    "tasaDeOcupacion": "0.00",
+  },
+]
