@@ -1,4 +1,5 @@
-[
+{
+"moteles": [
   {
     "_id": "5f34c5cb193fbe19e86fa413",
     "cantidadDeAlarmas": 0,
@@ -24,3 +25,4 @@
     "tasaDeOcupacion": "0.00"
   }
 ]
+}
